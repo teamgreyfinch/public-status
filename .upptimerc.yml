@@ -5,6 +5,7 @@ repo: public-status # The name of this repository
 sites:
   - name: Greyfinch Website
     url: https://greyfinch.com/
+    icon: https://greyfinch.com/wp-content/uploads/2019/12/cropped-favgreen-01-1-192x192.png
   - name: Greyfinch Application
     url: https://app.greyfinch.com/
   - name: Appointments Widget
@@ -23,7 +24,7 @@ status-website:
   logoUrl: https://greyfinch.com/wp-content/uploads/2021/03/GreyfinchLogoFinalBig-1536x517.png
   # name: Greyfinch status
   introTitle: "Greyfinch Uptime and Status Monitor"
-  introMessage: Realtime status monitoring of core Greyfinch applications
+  introMessage: Realtime status monitoring of Greyfinch applications
   # navbar:
   #   - title: Status
   #     href: /
