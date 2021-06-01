@@ -11,8 +11,7 @@ sites:
   - name: Appointments Widget
     url: https://appointments.greyfinch.com/?division=981581
   - name: Patient Hub API
-    url: https://api.greyfinch.com/v1/graphql
-    method: POST
+    url: https://api.greyfinch.com/healthz
   - name: Appointments API 
     url: https://app.greyfinch.com/rest/v1/public/divisions/981581/locations
 
