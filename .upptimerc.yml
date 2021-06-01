@@ -5,7 +5,7 @@ repo: public-status # The name of this repository
 sites:
   - name: Greyfinch Application - https://app.greyfinch.com/
     url: https://app.greyfinch.com/
-  - name: Patient Hub - https://bub.greyfinch.com/
+  - name: Patient Hub - https://hub.greyfinch.com/
     url: https://hub.greyfinch.com/
   - name: Patient Hub API
     url: https://api.greyfinch.com/healthz
