@@ -28,7 +28,7 @@ status-website:
   introMessage: Realtime status monitoring of Greyfinch applications
   navbar:
     - title: Production Status
-      href: /
+      href: https://teamgreyfinch.github.io/public-status/
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
 
