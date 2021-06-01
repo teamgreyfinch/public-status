@@ -6,7 +6,7 @@ sites:
   - name: Greyfinch Application - https://app.greyfinch.com/
     url: https://app.greyfinch.com/
   - name: Patient Hub - https://bub.greyfinch.com/
-    url: https://bub.greyfinch.com/
+    url: https://hub.greyfinch.com/
   - name: Patient Hub API
     url: https://api.greyfinch.com/healthz
   - name: Appointments Widget
