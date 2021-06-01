@@ -26,12 +26,16 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /public-status
   logoUrl: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
-  name:  Greyfinch
+  name:  Greyfinch Production
   introTitle: "Greyfinch Uptime and Status Monitor"
   introMessage: Realtime status monitoring of Greyfinch applications
   navbar:
-    - title: Production Status
-      href: https://teamgreyfinch.github.io/public-status/
+    - title: Production
+      href: /public-status/
+    - title: Staging
+      href: /public-staging-status/
+    - title: Demo
+      href: /public-demo-status/
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
 
