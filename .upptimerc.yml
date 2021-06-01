@@ -22,7 +22,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /public-status
   logoUrl: https://greyfinch.com/wp-content/uploads/2021/03/GreyfinchLogoFinalBig-1536x517.png
-  name:  
+  name:  Greyfinch Status
   introTitle: "Greyfinch Uptime and Status Monitor"
   introMessage: Realtime status monitoring of Greyfinch applications
   # navbar:
