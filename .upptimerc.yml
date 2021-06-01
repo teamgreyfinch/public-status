@@ -3,30 +3,32 @@ owner: teamgreyfinch # Your GitHub organization or username, where this reposito
 repo: public-status # The name of this repository
 
 sites:
-  - name: Greyfinch Website
-    url: https://greyfinch.com/
-    icon: https://greyfinch.com/wp-content/uploads/2019/12/cropped-favgreen-01-1-192x192.png
-  - name: Greyfinch Application
+  - name: Greyfinch Application - https://app.greyfinch.com/
     url: https://app.greyfinch.com/
-  - name: Appointments Widget
-    url: https://appointments.greyfinch.com/?division=981581
+  - name: Patient Hub - https://bub.greyfinch.com/
+    url: https://bub.greyfinch.com/
   - name: Patient Hub API
     url: https://api.greyfinch.com/healthz
+  - name: Appointments Widget
+    url: https://appointments.greyfinch.com/?division=981581
   - name: Appointments API 
     url: https://app.greyfinch.com/rest/v1/public/divisions/981581/locations
+  - name: Greyfinch Website - https://greyfinch.com/
+    url: https://greyfinch.com/
+    icon: https://greyfinch.com/wp-content/uploads/2019/12/cropped-favgreen-01-1-192x192.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /public-status
-  logoUrl: https://greyfinch.com/wp-content/uploads/2021/03/GreyfinchLogoFinalBig-1536x517.png
-  name:  Greyfinch Status
+  logoUrl: https://greyfinch.com/wp-content/uploads/elementor/thumbs/favgreen-01-okcc5yc7ecjl9rspb10pjc1tbjyt4deery8uecrb2i.png
+  name:  Greyfinch
   introTitle: "Greyfinch Uptime and Status Monitor"
   introMessage: Realtime status monitoring of Greyfinch applications
-  # navbar:
-  #   - title: Status
-  #     href: /
+  navbar:
+    - title: Production Status
+      href: /
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
 
