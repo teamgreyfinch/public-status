@@ -11,6 +11,7 @@ sites:
     url: https://appointments.greyfinch.com/?division=981581
   - name: Patient Hub API
     url: https://api.greyfinch.com/v1/graphql
+    method: POST
   - name: Appointments API 
     url: https://app.greyfinch.com/rest/v1/public/divisions/981581/locations
 
@@ -20,7 +21,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /public-status
   logoUrl: https://greyfinch.com/wp-content/uploads/2021/03/GreyfinchLogoFinalBig-1536x517.png
-  name: Greyfinch status
+  # name: Greyfinch status
   introTitle: "Greyfinch Uptime and Status Monitor"
   introMessage: Realtime status monitoring of core Greyfinch applications
   # navbar:
