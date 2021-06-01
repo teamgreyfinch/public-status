@@ -35,9 +35,9 @@ status-website:
     - title: Production
       href: /public-status/
     - title: Staging
-      href: /public-staging-status/
+      href: /staging-status/
     - title: Demo
-      href: /public-demo-status/
+      href: /demo-status/
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
 
