@@ -4,18 +4,20 @@
     "url": "https://app.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/app.greyfinch.com",
     "slug": "greyfinch-application-https-app-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 563,
-    "timeWeek": 203,
-    "timeMonth": 196,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 392,
+    "timeWeek": 205,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   },
   {
     "name": "Patient Hub - https://hub.greyfinch.com/",
@@ -40,18 +42,20 @@
     "url": "https://api.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "patient-hub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 333,
+    "time": 142,
+    "timeDay": 262,
     "timeWeek": 193,
-    "timeMonth": 140,
-    "timeYear": 140,
-    "dailyMinutesDown": {}
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   },
   {
     "name": "Appointments Widget",
@@ -76,18 +80,19 @@
     "url": "https://app.greyfinch.com/rest/v1/public/divisions/981581/locations",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "appointments-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.14%",
+    "uptimeDay": "99.13%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 2703,
-    "timeDay": 413,
-    "timeWeek": 824,
-    "timeMonth": 2703,
-    "timeYear": 2703,
+    "time": 2617,
+    "timeDay": 287,
+    "timeWeek": 736,
+    "timeMonth": 2617,
+    "timeYear": 2617,
     "dailyMinutesDown": {
+      "2021-06-11": 0,
       "2021-06-10": 12
     }
   },
