@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 251,
-    "timeDay": 241,
-    "timeWeek": 193,
-    "timeMonth": 198,
+    "timeDay": 436,
+    "timeWeek": 245,
+    "timeMonth": 204,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2022-02-25": 16,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 232,
-    "timeWeek": 243,
-    "timeMonth": 261,
+    "timeDay": 401,
+    "timeWeek": 283,
+    "timeMonth": 257,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -63,13 +63,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 251,
-    "timeWeek": 261,
-    "timeMonth": 259,
+    "timeDay": 394,
+    "timeWeek": 294,
+    "timeMonth": 256,
     "timeYear": 283,
-    "dailyMinutesDown": {
-      "2022-03-24": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Appointments Widget",
@@ -83,8 +81,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 203,
-    "timeWeek": 236,
+    "timeDay": 419,
+    "timeWeek": 277,
     "timeMonth": 275,
     "timeYear": 289,
     "dailyMinutesDown": {}
@@ -101,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 159,
-    "timeDay": 165,
-    "timeWeek": 206,
-    "timeMonth": 258,
+    "timeDay": 322,
+    "timeWeek": 247,
+    "timeMonth": 263,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2022-03-29": 57,
@@ -133,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1985,
-    "timeDay": 2202,
-    "timeWeek": 1784,
-    "timeMonth": 1951,
-    "timeYear": 1985,
+    "time": 1986,
+    "timeDay": 2261,
+    "timeWeek": 1839,
+    "timeMonth": 1931,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2022-03-23": 374
     }
