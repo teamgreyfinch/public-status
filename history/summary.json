@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 251,
-    "timeDay": 122,
-    "timeWeek": 263,
-    "timeMonth": 235,
-    "timeYear": 252,
+    "time": 250,
+    "timeDay": 88,
+    "timeWeek": 214,
+    "timeMonth": 234,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2022-02-25": 16,
       "2022-02-08": 49,
@@ -26,8 +26,7 @@
       "2021-07-30": 31,
       "2021-07-27": 45,
       "2021-07-25": 86,
-      "2021-07-11": 157,
-      "2021-07-04": 8
+      "2021-07-11": 157
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 141,
-    "timeWeek": 282,
+    "timeDay": 160,
+    "timeWeek": 240,
     "timeMonth": 267,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -60,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 121,
-    "timeWeek": 266,
-    "timeMonth": 285,
-    "timeYear": 282,
+    "timeDay": 128,
+    "timeWeek": 225,
+    "timeMonth": 284,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -78,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 88,
-    "timeWeek": 276,
-    "timeMonth": 286,
-    "timeYear": 290,
+    "timeDay": 71,
+    "timeWeek": 234,
+    "timeMonth": 275,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   },
   {
@@ -96,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 165,
-    "timeDay": 65,
-    "timeWeek": 265,
+    "timeDay": 112,
+    "timeWeek": 229,
     "timeMonth": 193,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -126,10 +125,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1962,
-    "timeDay": 2326,
-    "timeWeek": 1698,
-    "timeMonth": 1716,
+    "time": 1964,
+    "timeDay": 2804,
+    "timeWeek": 1703,
+    "timeMonth": 1746,
     "timeYear": 1959,
     "dailyMinutesDown": {
       "2022-03-23": 374
