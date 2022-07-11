@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 250,
-    "timeDay": 108,
-    "timeWeek": 207,
-    "timeMonth": 237,
+    "timeDay": 422,
+    "timeWeek": 254,
+    "timeMonth": 247,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2022-02-25": 16,
@@ -25,8 +25,7 @@
       "2021-11-04": 17,
       "2021-07-30": 31,
       "2021-07-27": 45,
-      "2021-07-25": 86,
-      "2021-07-11": 157
+      "2021-07-25": 86
     }
   },
   {
@@ -40,10 +39,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 130,
-    "timeWeek": 231,
-    "timeMonth": 260,
+    "time": 282,
+    "timeDay": 346,
+    "timeWeek": 258,
+    "timeMonth": 265,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 168,
-    "timeWeek": 325,
-    "timeMonth": 291,
-    "timeYear": 283,
+    "time": 285,
+    "timeDay": 466,
+    "timeWeek": 373,
+    "timeMonth": 301,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 139,
-    "timeWeek": 197,
-    "timeMonth": 263,
+    "timeDay": 371,
+    "timeWeek": 239,
+    "timeMonth": 269,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -95,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 165,
-    "timeDay": 56,
-    "timeWeek": 171,
-    "timeMonth": 199,
+    "timeDay": 379,
+    "timeWeek": 210,
+    "timeMonth": 208,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2022-03-29": 57,
@@ -110,8 +109,7 @@
       "2021-09-01": 810,
       "2021-08-17": 23,
       "2021-07-27": 17,
-      "2021-07-25": 77,
-      "2021-07-11": 149
+      "2021-07-25": 77
     }
   },
   {
@@ -126,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1962,
-    "timeDay": 1940,
-    "timeWeek": 1965,
-    "timeMonth": 1839,
-    "timeYear": 1959,
+    "timeDay": 2024,
+    "timeWeek": 1854,
+    "timeMonth": 1845,
+    "timeYear": 1961,
     "dailyMinutesDown": {
       "2022-03-23": 374
     }
