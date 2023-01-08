@@ -104,18 +104,19 @@
     "url": "https://greyfinch.com/",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "website-https-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2008,
+    "time": 2009,
     "timeDay": 2941,
     "timeWeek": 3053,
     "timeMonth": 2828,
     "timeYear": 1999,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2022-03-23": 374
     }
   }
