@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 221,
-    "timeWeek": 218,
-    "timeMonth": 184,
+    "time": 232,
+    "timeDay": 168,
+    "timeWeek": 223,
+    "timeMonth": 186,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 123,
-    "timeWeek": 216,
-    "timeMonth": 193,
-    "timeYear": 226,
+    "timeDay": 194,
+    "timeWeek": 222,
+    "timeMonth": 194,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 141,
-    "timeWeek": 209,
+    "timeDay": 129,
+    "timeWeek": 206,
     "timeMonth": 181,
-    "timeYear": 215,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 257,
-    "timeDay": 95,
-    "timeWeek": 178,
-    "timeMonth": 394,
-    "timeYear": 214,
+    "timeDay": 155,
+    "timeWeek": 181,
+    "timeMonth": 395,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2024-09-04": 114
     }
@@ -80,17 +80,16 @@
     "slug": "website-https-greyfinch-com",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 359,
-    "timeWeek": 323,
-    "timeMonth": 394,
+    "timeDay": 314,
+    "timeWeek": 311,
+    "timeMonth": 392,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-10-27": 11,
       "2024-06-16": 21,
       "2024-06-12": 34
     }
