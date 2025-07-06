@@ -79,19 +79,19 @@
     "url": "https://greyfinch.com/",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "website-https-greyfinch-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 357,
-    "timeDay": 1353,
-    "timeWeek": 558,
-    "timeMonth": 408,
+    "timeDay": 1000,
+    "timeWeek": 528,
+    "timeMonth": 405,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-07-06": 0,
+      "2025-07-06": 14,
       "2025-05-18": 16
     }
   }
