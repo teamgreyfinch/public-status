@@ -1,7 +1,7 @@
 url: https://greyfinch.com/
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2026-02-04T23:08:59.624Z
+status: down
+code: 503
+responseTime: 29552
+lastUpdated: 2026-02-05T15:29:46.910Z
 startTime: 2021-06-22T16:41:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
