@@ -82,9 +82,9 @@
     "url": "https://greyfinch.com/",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "website-https-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.78%",
@@ -123,7 +123,8 @@
       "2026-05-09": 37,
       "2026-05-15": 59,
       "2026-05-17": 76,
-      "2026-05-21": 76
+      "2026-05-21": 76,
+      "2026-05-30": 0
     }
   }
 ]
